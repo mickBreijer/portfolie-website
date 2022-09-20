@@ -1,0 +1,48 @@
+body {
+    background-color: beige;
+    margin: 45px;
+  }
+  
+  table {
+    color: purple;
+    text-align: right;
+  }
+  
+  h1 {
+    color: lightblue;
+    text-align: center;
+    font-family: cursive;
+  }
+  
+  h2 {
+    color: darkblue;
+    text-decoration: line-through;
+    text-decoration-color: lightgreen;
+    text-decoration-thickness: 3px;
+    font-family: cursive;
+  }
+  
+  ul {
+    color: pink;
+    text-align: center;
+    list-style-position: inside;
+    font-family: cursive;
+  }
+  
+  p {
+    color: red;
+    text-align: right;
+    font-family: cursive;
+  }
+  
+  a {
+    color: yellow;
+    font-family: cursive;
+  }
+  
+  a:hover {
+    color:white;
+    text-decoration: overline;
+    font-family: cursive;
+  }
+  
