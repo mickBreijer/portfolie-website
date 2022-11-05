@@ -131,3 +131,8 @@ select {
   flex: 1;
   padding: 5px;
 }
+
+footer {
+  margin: 45px;
+  margin-bottom: 400px;
+}
