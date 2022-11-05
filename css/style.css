@@ -35,6 +35,7 @@ nav {
   height: 100px;
   line-height: 95px;
   text-align: end;
+  font-size: 1rem; 
 }
 
 .logo img {
@@ -48,6 +49,7 @@ a {
   color: white;
   font-weight: bolder;
   text-decoration: none;
+  font-size: 1rem; 
 }
 
 header :hover {
@@ -68,6 +70,7 @@ td {
   margin: 45px;
   border: 1px solid;
   border-collapse: collapse;
+  font-size: 1rem; 
 }
 
 h1 {
@@ -90,24 +93,29 @@ ul {
   color: #001e48;
   font-family: 'Poppins', sans-serif;
   margin: 45px;
+  font-size: 1rem; 
 }
 
 p {
   color: #001e48;
   font-family: 'Poppins', sans-serif;
   margin-left: 45px;
+  margin-right: 45px;
+  font-size: 1rem; 
 }
 
 a {
   color: white;
   font-family: 'Poppins', sans-serif;
   margin: 45px;
+  font-size: 1rem; 
 }
 
 a:hover {
   color: black;
   font-family: seri 'Poppins', sans-seriff;
   margin: 45px;
+  font-size: 1rem; 
 }
 
 .profielfoto img {
@@ -117,6 +125,7 @@ a:hover {
 label {
   color: #001e48;
   font-family: 'Poppins', sans-serif;
+  font-size: 1rem; 
 }
 
 .form-element {
